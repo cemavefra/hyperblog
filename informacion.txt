@@ -1,10 +1,6 @@
 Este es el primer proyecto con GIT.
 
-Nombre: César Mauricio Velandia Fraija
-País: Colombia
-Ciudad: Bogotá
+Nombre: Cesar Mauricio Velandia Fraija
 CC: 80101045
 Cel: 3183450678
-Fijo: 2299590
-
-Trabajo actual: Lider de Implementación y postventa
+Profesión: Ingeniero
