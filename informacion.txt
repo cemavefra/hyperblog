@@ -7,4 +7,4 @@ CC: 80101045
 Cel: 3183450678
 Fijo: 2299590
 
-Trabajo actual: Lider de Implementación
+Trabajo actual: Lider de Implementación y postventa
