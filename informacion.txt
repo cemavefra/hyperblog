@@ -4,3 +4,7 @@ Nombre: Cesar Mauricio Velandia Fraija
 CC: 80101045
 Cel: 3183450678
 Profesión: Ingeniero
+
+Nombre: Cesar Velandia
+Profesión: Segunda cuenta
+
