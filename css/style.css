@@ -9,6 +9,7 @@ html {
 }
 
 body {
+    background: #1e1f24;
     font-size: 1.6rem;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -24,6 +25,11 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo {
+    width: 2rem;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -42,4 +48,9 @@ body {
 
 #container h1 {
     font-size: 2em;
+}
+
+#post {
+    background: white;
+    padding: 1em;
 }
