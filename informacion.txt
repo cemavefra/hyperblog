@@ -7,4 +7,5 @@ Profesión: Ingeniero
 
 Nombre: Cesar Velandia
 Profesión: Segunda cuenta
+Trabaja para el proyecto desde afuera
 
