@@ -5,6 +5,8 @@ CC: 80101045
 Cel: 3183450678
 Profesión: Ingeniero
 
+Mater 1
+
 Nombre: Cesar Velandia
 Profesión: Segunda cuenta
 Trabaja para el proyecto desde afuera
